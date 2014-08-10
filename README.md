@@ -9,7 +9,7 @@ Sphinxドキュメンテーションビルダーにおける`japanesesupport.py`
 `npm`を使ってインストールする．
 
 ```bash
-$npm install gitbook-plugin-japanese-support
+$ npm install gitbook-plugin-japanese-support
 ```
 
 `books.json`にプラグインを追加する．
