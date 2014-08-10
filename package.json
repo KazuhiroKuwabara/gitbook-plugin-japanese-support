@@ -1,0 +1,10 @@
+{
+  "name": "gitbook-plugin-japanese-support",
+  "description": "Supplementary Japanese support plugin for GitBook",
+  "version": "0.0.1",
+  "main": "index.js",
+  "engines": {
+    "gitbook": "*"
+  },
+  "license": "MIT"
+}
